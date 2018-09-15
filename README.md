@@ -1,25 +1,25 @@
-#Material Design for Bootstrap
+# Material Design for Bootstrap
 
 **version: MDB Free 4.5.10**
 
-##Documentation:
+## Documentation:
 https://mdbootstrap.com/
 
-##Getting started:
+## Getting started:
 https://mdbootstrap.com/getting-started/
 
-##Tutorials:
+## Tutorials:
 MDB-Bootstrap: https://mdbootstrap.com/bootstrap-tutorial/
 MDB-Wordpress: https://mdbootstrap.com/wordpress-tutorial/
 
-##Templates:
+## Templates:
 https://mdbootstrap.com/templates/
 
-##License:
+## License:
 https://mdbootstrap.com/license/
 
-##Support:
+## Support:
 https://mdbootstrap.com/forums/forum/support/
 
-##Contact:
+## Contact:
 office@mdbootstrap.com
