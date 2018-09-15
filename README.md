@@ -10,6 +10,7 @@ https://mdbootstrap.com/getting-started/
 
 ## Tutorials:
 MDB-Bootstrap: https://mdbootstrap.com/bootstrap-tutorial/
+
 MDB-Wordpress: https://mdbootstrap.com/wordpress-tutorial/
 
 ## Templates:
