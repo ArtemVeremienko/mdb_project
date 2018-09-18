@@ -3,7 +3,17 @@ html, body, header, #intro {
 }
 
 #intro {
-	background: url(../img/pexels-photo-592285.jpeg);
+	background: url(../img/pexels-photo-592285.jpeg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	background-size: cover;
+}
+
+.top-nav-collapse {
+	background-color: #24355C;
+}
+
+@media (max-width: 768px) {
+	.navbar:not(.top-nav-collapse) {
+		background-color: #24355C;
+	}
 }
